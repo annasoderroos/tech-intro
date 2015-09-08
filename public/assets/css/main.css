@@ -1,0 +1,9 @@
+.previous, .next {
+    font-size: 9em;
+}
+.previous {
+    float: left;
+}
+.next {
+    float: right;
+}
